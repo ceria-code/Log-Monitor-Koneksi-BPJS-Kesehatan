@@ -1,0 +1,6 @@
+{
+  "name": "Log & Monitor Koneksi BPJS Kesehatan",
+  "description": "Alat uji koneksi dan log diagnostik jaringan API BPJS Kesehatan (DNS, TCP 443, TLS, HTTP latency), riwayat akses terstruktur, ekspor PDF/CSV, serta tampilan klasik yang cepat dan ringan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
